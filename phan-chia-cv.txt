@@ -1,0 +1,7 @@
+Tuấn Anh: 
+- Thêm giao diện còn thiếu:
+	+ Quản lý tác giả, Thêm tác giả, Sửa thông tin tác giả (Vùng quản trị)
+	+ Quản lý bài viết, Thêm bài viết, Sửa thông tin bài viết (Vùng quản trị)
+- Hoàn thiện chức năng Đăng nhập (admin)
+Duy Long: 
+- Thực hiện yêu cầu truy vấn sql.
