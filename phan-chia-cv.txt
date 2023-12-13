@@ -1,3 +1,4 @@
+Buổi 1:
 Tuấn Anh: 
 - Thêm giao diện còn thiếu:
 	+ Quản lý tác giả, Thêm tác giả, Sửa thông tin tác giả (Vùng quản trị)
@@ -5,3 +6,9 @@ Tuấn Anh:
 - Hoàn thiện chức năng Đăng nhập (admin)
 Duy Long: 
 - Thực hiện yêu cầu truy vấn sql.
+
+Buổi 2:
+- Hoàn thiện bài 1 chung
+- Bài 2:
+	Tuấn Anh: Frontend Guest
+	Duy Long, Việt Bách, Việt Hùng: Frontend Admin
