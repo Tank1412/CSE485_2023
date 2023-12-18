@@ -12,3 +12,20 @@ Buổi 2:
 - Bài 2:
 	Tuấn Anh: Frontend Guest
 	Duy Long, Việt Bách, Việt Hùng: Frontend Admin
+Buổi 3:
+Tuấn Anh: 
+    - index.php, csdl bài 2
+Long: 
+    - config.php; controllers/
+    - ArticleController.php
+Hùng 
+- models/
+    - Article.php
+- views/
+    - articles/
+        - index.php
+Bách: 
+- views/
+    - articles/
+        - create.php
+        - edit.php
